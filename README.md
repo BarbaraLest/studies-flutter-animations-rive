@@ -1,1 +1,1 @@
-# flutter_animations_flare
+# flutter_animations_rive
