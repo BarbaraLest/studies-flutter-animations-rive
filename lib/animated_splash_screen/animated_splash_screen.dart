@@ -47,7 +47,7 @@ class AnimationSplashScreenState extends State<AnimationSplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Container(
-              height: MediaQuery.of(context).size.height - 500,
+              height: MediaQuery.of(context).size.height - 600,
               width: MediaQuery.of(context).size.width,
               child: _artboard != null
                   ? Rive(artboard: _artboard, fit: BoxFit.cover)
